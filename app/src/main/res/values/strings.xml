@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question1">Where is Taj Mahal located?</string>
+    <string name="answer1_1">Agra</string>
+    <string name="answer1_2">Mumbai</string>
+    <string name="answer1_3">Jaipur</string>
+
+    <string name="question2">Capital of India?</string>
+    <string name="answer2_1">Mumbai</string>
+    <string name="answer2_2">Delhi</string>
+    <string name="answer2_3">Hydrabad</string>
+
+    <string name="question3">East of Venice?</string>
+    <string name="answer3_1">Alappey</string>
+    <string name="answer3_2">Trivandrum</string>
+    <string name="answer3_3">Kcchi</string>
+
+</resources>
